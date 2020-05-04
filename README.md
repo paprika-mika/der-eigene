@@ -6,7 +6,7 @@
 
 Der Eigene was the first gay journal in the world, published from 1896 to 1932 by Adolf Brand in Berlin. Brand contributed many poems, stories political articles and nude photography;
 
-A. Analysis of Content (#Analysis-of-Content)
+A. Analysis of Content <a name="abcd"></a>
 
 1. Research Beforehand
 2. Scanned Volumes
@@ -33,7 +33,7 @@ D. Notes
 
 1. References
 
-## Analysis of Content
+## Analysis of Content [link text](#abcd)
 
 The magazine mostly contains stories and (political) articles, but also a lot of poetry and some illustrations and nude photographs of men. 
 During the time the magazine was being published it had many different lay-outs and cover designs.
