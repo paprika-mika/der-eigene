@@ -6,39 +6,40 @@
 
 Der Eigene was the first gay journal in the world, published from 1896 to 1932 by Adolf Brand in Berlin. Brand contributed many poems, stories political articles and nude photography;
 
-A. Analysis of Content <a name="abcd"></a>
+A. [Analysis of Content](#A)
 
-1. Research Beforehand
-2. Scanned Volumes
-3. Photographs of *Der Eigene*
-4. Illustration of *Der Eigene*
-5. Typography of *Der Eigene*
-6. Production
-7. Messgage
-8. Contributors
+1. [Research Beforehand](#A1)
+2. [Scanned Volumes](#A2)
+3. [Photographs of *Der Eigene* ](#A3)
+4. [Illustration of *Der Eigene*](#A4)
+5. [Typography of *Der Eigene*](#A5)
+6. [Production](#A6)
+7. [Message](#A7)
+8. [Contributors](#A8)
 
-B. Context
+B. [Context](#B)
 
-1. Political situation
-2. Queer Publishing
-3. Poetry 
+1. [Political situation](#B1)
+2. [Queer Publishing](#B2)
+3. [Poetry](#B3)
 
-C. Preservation Concepts
+C. [Preservation Concepts](#C)
 
-1. Translation try-out
-2. Spoken Poetry
-3. Poetry video
+1. [Translation try-out](#C1)
+2. [Spoken Poetry](#C2)
+3. [Poetry video](#C3)
+4. [Poetry book](#C4)
 
-D. Notes
+D. [Notes](#D)
 
-1. References
+1. [References](#D1)
 
-## Analysis of Content [link text](#abcd)
+## Analysis of Content <a name="A"></a>
 
 The magazine mostly contains stories and (political) articles, but also a lot of poetry and some illustrations and nude photographs of men. 
 During the time the magazine was being published it had many different lay-outs and cover designs.
 
-- **Research Beforehand**
+- **Research Beforehand** <a name="A1"></a>
 
     ![https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Der_Eigene_1920.jpg/800px-Der_Eigene_1920.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Der_Eigene_1920.jpg/800px-Der_Eigene_1920.jpg)
 
@@ -72,7 +73,7 @@ During the time the magazine was being published it had many different lay-outs 
 
     > On 10 May 1933, Nazis in Berlin burned works by leftists and other authors which they considered "un-German", including thousands of books were looted from the library of Hirschfeld's Institut für Sexualwissenschaft.
 
-- **Scanned Volumes**
+- **Scanned Volumes** <a name="A2"></a>
 
     [DerEigene-Jahrgang-1(1896)-Heft-3,4-5+ExtraPages(1898).pdf](Der%20Eigene/DerEigene-Jahrgang-1(1896)-Heft-34-5ExtraPages(1898).pdf)
 
@@ -106,7 +107,7 @@ During the time the magazine was being published it had many different lay-outs 
 
 [Typography of Der Eigene](https://www.notion.so/Typography-of-Der-Eigene-b14775806f0b45c09024c85e2d719cf5)
 
-### *Production*
+### *Production* <a name="A3"></a>
 
 The magazine was published by Adolf Brand and had approximately **1500 subscriptions** per edition, but exact numbers do not exist.
 
@@ -116,11 +117,11 @@ The magazine was **locally printed in Berlin**, probably using an offset press. 
 
 The magazine had a **soft cover and was stapled**, although there was one hard cover version in 1906's volume.
 
-### *Message*
+### *Message* <a name="A4"></a>
 
 The search/longing/desire to be able to live as you want, accepting freundesliebe, men loving men
 
-### *Contributors*
+### *Contributors* <a name="A5"></a>
 
 Adolf Brand contributed many poems and articles; other contributors included writers Benedict Friedlaender, Hanns Heinz Ewers, Erich Mühsam, Kurt Hiller, Ernst Burchard, John Henry Mackay, Theodor Lessing, Klaus Mann, and Thomas Mann, as well as artists Wilhelm von Gloeden, Fidus, and Sascha Schneider.
 
@@ -182,7 +183,7 @@ Kart Alexander Bästlein
 
 E. G. H. Chauve
 
-## Context
+## Context <a name="A6"></a>
 
 Berlin 1900 -1930
 
