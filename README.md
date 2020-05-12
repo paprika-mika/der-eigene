@@ -13,7 +13,7 @@ Der Eigene was the first gay journal in the world, published from 1896 to 1932 b
 
 _The Magazine_
 At the IISH (International Institute for Social History) I looked into their selection of copies of Der Eigene, and scanned about half of them.
-![Covers of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/artefact_issh.png)
+![Covers of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/artefact_iish.png)
 
 [The PDF scans can be found here](https://drive.google.com/open?id=10vGqb5_KHc1GRvuXXWzF7xnSF7cH8izg)
 
