@@ -7,51 +7,22 @@
 Der Eigene was the first gay journal in the world, published from 1896 to 1932 by Adolf Brand in Berlin. Many men contributed poems, stories, political articles and nude photography. How do we look at this content with an eye of 2020?
 
 1. [Analysis of Content](#1)
-
+    i.
 
 
 ## Analysis of Content <a name="1"></a>
 
+*The Magazine*
 At the IISH (International Institute for Social History) I looked into their selection of copies of Der Eigene, and scanned about half of them.
+![Covers of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/artefact_ISSH.png)
+
+[The PDF scans can be found here](https://drive.google.com/open?id=10vGqb5_KHc1GRvuXXWzF7xnSF7cH8izg)
+
+![Covers of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/covers.gif) ![Photography of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/photography.gif)
+
+![Illustration of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/illustration.gif) ![Typography of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/typography.gif)
 
 
-
-During the time the magazine was being published it had many different lay-outs and cover designs.
-
-
-**Scanned Volumes**
-
-    [DerEigene-Jahrgang-1(1896)-Heft-3,4-5+ExtraPages(1898).pdf](https://raw.githubusercontent.com/paprika-mika/der-eigene/media/DerEigene_Jahrgang1_1896_Heft3_4_5_ExtraPages_1898)
-
-    [DerEigene-Jahrgang-1(1899)-Heft-1.pdf](Der%20Eigene/DerEigene-Jahrgang-1(1899)-Heft-1.pdf)
-
-    [DerEigene-Jahrgang-1(1899)-Heft-2.pdf](Der%20Eigene/DerEigene-Jahrgang-1(1899)-Heft-2.pdf)
-
-    [DerEigene-Jahrgang-1(1899)-Heft-4-5.pdf](Der%20Eigene/DerEigene-Jahrgang-1(1899)-Heft-4-5.pdf)
-
-    [DerEigene-Jahrgang-1(1899)-Heft-8-9.pdf](Der%20Eigene/DerEigene-Jahrgang-1(1899)-Heft-8-9.pdf)
-
-    [DerEigene-Jahrgang-7(1919)-Heft-1(selection).pdf](Der%20Eigene/DerEigene-Jahrgang-7(1919)-Heft-1(selection).pdf)
-
-    [DerEigene-Jahrgang-9(1921-1922)-Heft-4.pdf](Der%20Eigene/DerEigene-Jahrgang-9(1921-1922)-Heft-4.pdf)
-
-    [DerEigene-Jahrgang-9(1921-1922)-Heft-8.pdf](Der%20Eigene/DerEigene-Jahrgang-9(1921-1922)-Heft-8.pdf)
-
-    [DerEigene-Jahrgang-11(1924-1925)-Heft-6.pdf](Der%20Eigene/DerEigene-Jahrgang-11(1924-1925)-Heft-6.pdf)
-
-    [DerEigene-Jahrgang-11(1924-1925)-Heft-8.pdf](Der%20Eigene/DerEigene-Jahrgang-11(1924-1925)-Heft-8.pdf)
-
-    [DerEigene-Jahrgang-12(1929)-Heft-1.pdf](Der%20Eigene/DerEigene-Jahrgang-12(1929)-Heft-1.pdf)
-
-    [DerEigene-Jahrgang-12(1929)-Heft-2.pdf](Der%20Eigene/DerEigene-Jahrgang-12(1929)-Heft-2.pdf)
-
-    [DieGemeinshaftDerEigenen-Satzung.pdf](Der%20Eigene/DieGemeinshaftDerEigenen-Satzung.pdf)
-
-[Photographs of Der Eigene](https://www.notion.so/Photographs-of-Der-Eigene-b911f77c609b434581d5e99176acb0d9)
-
-[Illustration of Der Eigene](https://www.notion.so/Illustration-of-Der-Eigene-80a755f1715b41bbbd9fa7da30d6900f)
-
-[Typography of Der Eigene](https://www.notion.so/Typography-of-Der-Eigene-b14775806f0b45c09024c85e2d719cf5)
 
 ### *Production* <a name="A3"></a>
 
