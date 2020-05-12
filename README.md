@@ -1,4 +1,4 @@
-![Romantic Gay Poetry - Cover](https://raw.githubusercontent.com/paprika-mika/der-eigene/media/cover-der-eigene.jpg)
+![Romantic Gay Poetry - Cover](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/cover-der-eigene.jpg)
 
 # Der Eigene
 
