@@ -1,78 +1,27 @@
 ![Romantic Gay Poetry - Cover](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/cover-der-eigene.jpg)
 
-# Der Eigene
-
-## Blatt für männliche Kultur
+# Wir Eigenen
 
 ***The Unique/The Individual - Paper for male culture***
 
-Der Eigene was the first gay journal in the world, published from 1896 to 1932 by Adolf Brand in Berlin. Brand contributed many poems, stories political articles and nude photography;
+Der Eigene was the first gay journal in the world, published from 1896 to 1932 by Adolf Brand in Berlin. Many men contributed poems, stories, political articles and nude photography. How do we look at this content with an eye of 2020?
 
-A. [Analysis of Content](#A)
+1. [Analysis of Content](#1)
 
-1. [Research Beforehand](#A1)
-2. [Scanned Volumes](#A2)
-3. [Photographs of *Der Eigene* ](#A3)
-4. [Illustration of *Der Eigene*](#A4)
-5. [Typography of *Der Eigene*](#A5)
-6. [Production](#A6)
-7. [Message](#A7)
-8. [Contributors](#A8)
 
-B. [Context](#B)
 
-1. [Political situation](#B1)
-2. [Queer Publishing](#B2)
-3. [Poetry](#B3)
+## Analysis of Content <a name="1"></a>
 
-C. [Preservation Concepts](#C)
+At the IISH (International Institute for Social History) I looked into their selection of copies of Der Eigene, and scanned about half of them.
 
-1. [Translation try-out](#C1)
-2. [Spoken Poetry](#C2)
-3. [Poetry video](#C3)
-4. [Poetry book](#C4)
 
-D. [Notes](#D)
 
-1. [References](#D1)
-
-## Analysis of Content <a name="A"></a>
-
-The magazine mostly contains stories and (political) articles, but also a lot of poetry and some illustrations and nude photographs of men.
 During the time the magazine was being published it had many different lay-outs and cover designs.
 
-- **Research Beforehand** <a name="A1"></a>
 
+**Scanned Volumes** <a name="A2"></a>
 
-    [ISSH Artifacts](https://www.notion.so/37ed21d807c1434f95e39e3ab95cec9a)
-
-    ![Der%20Eigene/Schermopname_(396).png](Der%20Eigene/Schermopname_(396).png)
-
-    ![Der%20Eigene/Schermopname_(397).png](Der%20Eigene/Schermopname_(397).png)
-
-    [Der Eigene](https://en.wikipedia.org/wiki/Der_Eigene)
-
-    [The Ego and Its Own](https://en.wikipedia.org/wiki/The_Ego_and_Its_Own)
-
-    [Magnus Hirschfeld](https://en.wikipedia.org/wiki/Magnus_Hirschfeld#Feminism)
-
-    [Scientific-Humanitarian Committee](https://en.wikipedia.org/wiki/Scientific-Humanitarian_Committee)
-
-    [Digitalisate](https://magnus-hirschfeld.de/bibliothek-und-archiv/sammlungsschwerpunkte/digitalisate/)
-
-    [Magnus Hirschfeld and HKW](https://www.hkw.de/en/hkw/geschichte/ort_geschichte/magnus_hirschfeld.php)
-
-    ![Der%20Eigene/aa15f28735fc4e2b6277d9aa361a89e1.jpg](Der%20Eigene/aa15f28735fc4e2b6277d9aa361a89e1.jpg)
-
-    1920- Right-wing agitators attack a meeting of Germany's Scientific Humanitarian Committee, which has been working for gay rights. The police stand by & do nothing. A year later, the Committee's director, Magnus Hirschfeld, is attacked by thugs who fracture his skull & leave him for dead. Still, Hirschfeld will be back at work in 1921, saying, "The liberation of homosexuals can only be the work of homosexuals themselves."
-
-    ![Der%20Eigene/Untitled.png](Der%20Eigene/Untitled.png)
-
-    > On 10 May 1933, Nazis in Berlin burned works by leftists and other authors which they considered "un-German", including thousands of books were looted from the library of Hirschfeld's Institut für Sexualwissenschaft.
-
-- **Scanned Volumes** <a name="A2"></a>
-
-    [DerEigene-Jahrgang-1(1896)-Heft-3,4-5+ExtraPages(1898).pdf](Der%20Eigene/DerEigene-Jahrgang-1(1896)-Heft-34-5ExtraPages(1898).pdf)
+    [DerEigene-Jahrgang-1(1896)-Heft-3,4-5+ExtraPages(1898).pdf](https://raw.githubusercontent.com/paprika-mika/der-eigene/6c326cd81ec8f82449ffff4f34c9fde8466961bb/media/DerEigene-Jahrgang-1(1896)-Heft-3%2C4-5%2BExtraPages(1898).pdf)
 
     [DerEigene-Jahrgang-1(1899)-Heft-1.pdf](Der%20Eigene/DerEigene-Jahrgang-1(1899)-Heft-1.pdf)
 
