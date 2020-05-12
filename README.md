@@ -21,7 +21,7 @@ During the time the magazine was being published it had many different lay-outs 
 
 **Scanned Volumes**
 
-    [DerEigene-Jahrgang-1(1896)-Heft-3,4-5+ExtraPages(1898).pdf]( https://raw.githubusercontent.com/paprika-mika/der-eigene/media/DerEigene_Jahrgang1_1896_Heft3_4_5_ExtraPages_1898)
+    [DerEigene-Jahrgang-1(1896)-Heft-3,4-5+ExtraPages(1898).pdf](https://raw.githubusercontent.com/paprika-mika/der-eigene/media/DerEigene_Jahrgang1_1896_Heft3_4_5_ExtraPages_1898)
 
     [DerEigene-Jahrgang-1(1899)-Heft-1.pdf](Der%20Eigene/DerEigene-Jahrgang-1(1899)-Heft-1.pdf)
 
