@@ -2,29 +2,26 @@
 
 # Wir Eigenen
 
-***The Unique/The Individual - Paper for male culture***
+**_The Unique/The Individual - Paper for male culture_**
 
 Der Eigene was the first gay journal in the world, published from 1896 to 1932 by Adolf Brand in Berlin. Many men contributed poems, stories, political articles and nude photography. How do we look at this content with an eye of 2020?
 
-1. [Analysis of Content](#1)
+1.  [Analysis of Content](#1)
     i.
-
 
 ## Analysis of Content <a name="1"></a>
 
-*The Magazine*
+_The Magazine_
 At the IISH (International Institute for Social History) I looked into their selection of copies of Der Eigene, and scanned about half of them.
-![Covers of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/artefact_ISSH.png)
+![Covers of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/artefact_issh.png)
 
 [The PDF scans can be found here](https://drive.google.com/open?id=10vGqb5_KHc1GRvuXXWzF7xnSF7cH8izg)
 
-![Covers of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/covers.gif) ![Photography of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/photography.gif)
+|       ![Covers of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/covers.gif)       | ![Photography of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/photography.gif) |
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![Illustration of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/illustration.gif) |  ![Typography of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/typography.gif)  |
 
-![Illustration of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/illustration.gif) ![Typography of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/typography.gif)
-
-
-
-### *Production* <a name="A3"></a>
+### _Production_ <a name="A3"></a>
 
 The magazine was published by Adolf Brand and had approximately **1500 subscriptions** per edition, but exact numbers do not exist.
 
@@ -34,15 +31,15 @@ The magazine was **locally printed in Berlin**, probably using an offset press. 
 
 The magazine had a **soft cover and was stapled**, although there was one hard cover version in 1906's volume.
 
-### *Message* <a name="A4"></a>
+### _Message_ <a name="A4"></a>
 
 The search/longing/desire to be able to live as you want, accepting freundesliebe, men loving men
 
-### *Contributors* <a name="A5"></a>
+### _Contributors_ <a name="A5"></a>
 
 Adolf Brand contributed many poems and articles; other contributors included writers Benedict Friedlaender, Hanns Heinz Ewers, Erich Mühsam, Kurt Hiller, Ernst Burchard, John Henry Mackay, Theodor Lessing, Klaus Mann, and Thomas Mann, as well as artists Wilhelm von Gloeden, Fidus, and Sascha Schneider.
 
-*Scanned poems by:*
+_Scanned poems by:_
 
 Adolf Brand
 
@@ -104,13 +101,13 @@ E. G. H. Chauve
 
 Berlin 1900 -1930
 
-[https://www.youtube.com/watch?v=B-m9A8mY-U0](https://www.youtube.com/watch?v=B-m9A8mY-U0)
+<https://www.youtube.com/watch?v=B-m9A8mY-U0>
 
-### *Political situation*
+### _Political situation_
 
 [Paragraph 175](https://en.wikipedia.org/wiki/Paragraph_175)
 
-### *Queer Publishing*
+### _Queer Publishing_
 
 Der Eigene was the first gay magazine known, with many to follow worldwide.
 
@@ -124,7 +121,7 @@ In the last 150 years queer publications have helped unite minorities and helped
 
 What were other magazine back then(publishing context)?
 
-### *Poetry*
+### _Poetry_
 
 poetry ginsberg 60s 70s,
 
@@ -136,15 +133,15 @@ Making soundtrack for this issue, how do in bring this content in relation to th
 
 How to make this content understandable for a modern audience?
 
-1. Music, from poem to song, political message spread through songs
-2. Poetry book
-3. Performance > video >
-4. how to preserve video > narrative images?
-5. Video including text of the poetry
+1.  Music, from poem to song, political message spread through songs
+2.  Poetry book
+3.  Performance > video >
+4.  how to preserve video > narrative images?
+5.  Video including text of the poetry
 
-### ***Translation Try-out***
+### **_Translation Try-out_**
 
-*Page 8, Der Eigene, 1(Neu). Jahrgang 1 Heft 1:*
+_Page 8, Der Eigene, 1(Neu). Jahrgang 1 Heft 1:_
 
 AN EINEM MORGEN
 von Emanuel von Bodmann
@@ -158,7 +155,7 @@ Weil du mir so viele Qualen giebst.
 Und ich fragte dumpf: ,,Was musst du weinen?”
 Und du jubeltest: ,,Weil du mich liebst!”
 
-*translation:*
+_translation:_
 
 ON A MORNING
 by Emanuel von Bodmann
@@ -197,7 +194,7 @@ dir blüht aller Glanz :
 mir ist höchstes Glück geworden ,
 legst du mir aufs Grab den Frühlingskranz!
 
-*translation:*
+_translation:_
 
 MIRACULOUS BIRD
 by Eugen Ludwig Gattermann
@@ -239,17 +236,17 @@ Selected poems from the magazine, about nature and emotion.
 
 ## Notes
 
-### *References*
+### _References_
 
-[https://www.youtube.com/watch?v=bkeVelOW5yE](https://www.youtube.com/watch?v=bkeVelOW5yE)
+<https://www.youtube.com/watch?v=bkeVelOW5yE>
 
-[https://www.youtube.com/watch?time_continue=4257&v=FC6jFoYm3xs&feature=emb_logo](https://www.youtube.com/watch?time_continue=4257&v=FC6jFoYm3xs&feature=emb_logo)
+<https://www.youtube.com/watch?time_continue=4257&v=FC6jFoYm3xs&feature=emb_logo>
 
 [e-flux](https://www.e-flux.com/podcasts/)
 
 [Rainer Werner Fassbinder](https://en.wikipedia.org/wiki/Rainer_Werner_Fassbinder)
 
-### *Notes on transcoding the artifact*
+### _Notes on transcoding the artifact_
 
 How does coding play a role in this?
 
@@ -281,15 +278,15 @@ so old so its open to interpretation, can be quite bold, not offending anyone
 
 ## To Do list
 
-- [ ]  Contact COC Amsterdam
-- [ ]  Contact Magnus Hirschfield geselschaft [https://magnus-hirschfeld.de/bibliothek-und-archiv/library/](https://magnus-hirschfeld.de/bibliothek-und-archiv/library/)
-- [ ]  Forever Butt
-- [x]  Select poems, articles (what criteria?)
-- [ ]  History of gay zines, relation to Der Eigene
-- [ ]  Context desciption
-- [ ]  Content description
-- [ ]  Digital text format + translation update
-- [ ]  Preservation format ideas
+-   [ ]  Contact COC Amsterdam
+-   [ ]  Contact Magnus Hirschfield geselschaft <https://magnus-hirschfeld.de/bibliothek-und-archiv/library/>
+-   [ ]  Forever Butt
+-   [x]  Select poems, articles (what criteria?)
+-   [ ]  History of gay zines, relation to Der Eigene
+-   [ ]  Context desciption
+-   [ ]  Content description
+-   [ ]  Digital text format + translation update
+-   [ ]  Preservation format ideas
 
 [List of LGBT periodicals](https://en.wikipedia.org/wiki/List_of_LGBT_periodicals)
 
