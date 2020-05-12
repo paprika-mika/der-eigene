@@ -46,34 +46,34 @@ Known contributors, other then Adolf Brand himself were Benedict Friedlaender, H
 <details>
 <summary>_Contributors of scanned issues:_</summary>
 <br>
-+ Adolf Brand
-+ Heinrich Vormann
-+ Ferdinand Max Kurth
-+ H. H. Ewers
-+ Emanuel von Bodmann
-+ Josef Kitir
-+ Theodor Etzel
-+ Hans Benzmann
-+ Elisar von Kupffer
-+ Ferdinand Freiherz
-+ U. Veem
-+ Melchior Grohe
-+ F. L.
-+ Wilhelm Gittermann
-+ Christian von Kleist
-+ Rüdiger Laubach
-+ Werner Lürmann
-+ Eugen Stangen
-+ F. B.
-+ René Lermite
-+ Walther Ehrenfried
-+ Ernst Horst
-+ Max Barth
-+ van Dreelen
-+ Anatol Habicht
-+ Peter Stein
-+ Kart Alexander Bästlein
-+ E. G. H. Chauve
+  - Adolf Brand<br>
+  - Heinrich Vormann<br>
+  - Ferdinand Max Kurth<br>
+  - H. H. Ewers<br>
+  - Emanuel von Bodmann<br>
+  - Josef Kitir<br>
+  - Theodor Etzel<br>
+  - Hans Benzmann<br>
+  - Elisar von Kupffer<br>
+  - Ferdinand Freiherz<br>
+  - U. Veem<br>
+  - Melchior Grohe<br>
+  - F. L.<br>
+  - Wilhelm Gittermann<br>
+  - Christian von Kleist<br>
+  - Rüdiger Laubach<br>
+  - Werner Lürmann<br>
+  - Eugen Stangen<br>
+  - F. B.<br>
+  - René Lermite<br>
+  - Walther Ehrenfried<br>
+  - Ernst Horst<br>
+  - Max Barth<br>
+  - van Dreelen
+  - Anatol Habicht<br>
+  - Peter Stein<br>
+  - Kart Alexander Bästlein<br>
+  - E. G. H. Chauve<br>
 </details>
 
 
