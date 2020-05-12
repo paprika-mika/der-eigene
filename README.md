@@ -36,16 +36,11 @@ D. [Notes](#D)
 
 ## Analysis of Content <a name="A"></a>
 
-The magazine mostly contains stories and (political) articles, but also a lot of poetry and some illustrations and nude photographs of men. 
+The magazine mostly contains stories and (political) articles, but also a lot of poetry and some illustrations and nude photographs of men.
 During the time the magazine was being published it had many different lay-outs and cover designs.
 
 - **Research Beforehand** <a name="A1"></a>
 
-    ![https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Der_Eigene_1920.jpg/800px-Der_Eigene_1920.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Der_Eigene_1920.jpg/800px-Der_Eigene_1920.jpg)
-
-    ![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Der_Eigene_1924-25_vol_10_no_4.jpg/800px-Der_Eigene_1924-25_vol_10_no_4.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Der_Eigene_1924-25_vol_10_no_4.jpg/800px-Der_Eigene_1924-25_vol_10_no_4.jpg)
-
-    ---
 
     [ISSH Artifacts](https://www.notion.so/37ed21d807c1434f95e39e3ab95cec9a)
 
@@ -67,7 +62,7 @@ During the time the magazine was being published it had many different lay-outs 
 
     ![Der%20Eigene/aa15f28735fc4e2b6277d9aa361a89e1.jpg](Der%20Eigene/aa15f28735fc4e2b6277d9aa361a89e1.jpg)
 
-    > 1920- Right-wing agitators attack a meeting of Germany's Scientific Humanitarian Committee, which has been working for gay rights. The police stand by & do nothing. A year later, the Committee's director, Magnus Hirschfeld, is attacked by thugs who fracture his skull & leave him for dead. Still, Hirschfeld will be back at work in 1921, saying, "The liberation of homosexuals can only be the work of homosexuals themselves."
+    1920- Right-wing agitators attack a meeting of Germany's Scientific Humanitarian Committee, which has been working for gay rights. The police stand by & do nothing. A year later, the Committee's director, Magnus Hirschfeld, is attacked by thugs who fracture his skull & leave him for dead. Still, Hirschfeld will be back at work in 1921, saying, "The liberation of homosexuals can only be the work of homosexuals themselves."
 
     ![Der%20Eigene/Untitled.png](Der%20Eigene/Untitled.png)
 
@@ -111,7 +106,7 @@ During the time the magazine was being published it had many different lay-outs 
 
 The magazine was published by Adolf Brand and had approximately **1500 subscriptions** per edition, but exact numbers do not exist.
 
-The paper and general design of the magazine changed often during the 30 years it existed, but most of the time **black and white**, with the exception of some illustrations that had one color added. 
+The paper and general design of the magazine changed often during the 30 years it existed, but most of the time **black and white**, with the exception of some illustrations that had one color added.
 
 The magazine was **locally printed in Berlin**, probably using an offset press. Often photos were printed on different paper in earlier issues. Later issues (around 1920) were completely printed on more glossy paper.
 
@@ -209,7 +204,7 @@ What were other magazine back then(publishing context)?
 
 ### *Poetry*
 
-poetry ginsberg 60s 70s, 
+poetry ginsberg 60s 70s,
 
 poetry in relation to music
 
@@ -221,7 +216,7 @@ How to make this content understandable for a modern audience?
 
 1. Music, from poem to song, political message spread through songs
 2. Poetry book
-3. Performance > video > 
+3. Performance > video >
 4. how to preserve video > narrative images?
 5. Video including text of the poetry
 
@@ -252,7 +247,7 @@ And you sat down in bed
 Crying in your loosened hair
 My soul almost turned into stone,
 Because you give me so much pain.
-And I asked hollow: ,,Why are you crying?” 
+And I asked hollow: ,,Why are you crying?”
 And you cheered: ,,Because you love me!”
 
 Der Eigene, 9. Jahrgang, No. 4. (1922)
