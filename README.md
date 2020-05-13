@@ -2,13 +2,19 @@
 
 # Wir Eigenen
 
-**_The Unique/The Individual - Paper for male culture_**
+**_Romantic Gay poetry 1896 - 1932_**
 
 Der Eigene was the first gay journal in the world, published from 1896 to 1932 by Adolf Brand in Berlin. Many men contributed poems, stories, political articles and nude photography. How do we look at this content with an eye of 2020?
+
+## Table of Content
 
 1.  [Analysis of Content](#1)
 2.  [Research](#2)
 3.  [Transcoding](#3)
+4.  [Reflection](#4)
+5.  [Outcome](#5)
+6.  [Conclusion](#7)
+7.  [Bibliography](#8)
 
 ## Analysis of Content <a name="1"></a>
 
@@ -25,16 +31,12 @@ At the IISH (International Institute for Social History) I looked into their sel
 
 ## Research <a name="2"></a>
 
-### _Production_
+### _Context_
 
-The magazine was published by Adolf Brand and had approximately **1500 subscriptions** per edition, but exact numbers do not exist.
+[What did Berlin look like around 1900 -1930](https://www.youtube.com/watch?v=B-m9A8mY-U0)
 
-The paper and general design of the magazine changed often during the 30 years it existed, but most of the time **black and white**, with the exception of some illustrations that had one color added.
-
-The magazine was **locally printed in Berlin**, probably using an offset press. Often photos were printed on different paper in earlier issues. Later issues (around 1920) were completely printed on more glossy paper.
-
-The magazine had a **soft cover and was stapled**, although there was one hard cover version in 1906's volume.
-
+During the period of publishing Der Eigene there was a lot of political tension in Germany. First of all, the main reason for publishing Der Eigene was [Paragraph 175](https://en.wikipedia.org/wiki/Paragraph_175), a provision of the German Criminal Code from 15 May 1871 to 10 March 1994, that made homosexual acts between males a crime, and in early revisions the provision also criminalized bestiality as well as forms of prostitution and underage sexual abuse. All in all, around 140,000 men were convicted under the law.
+During the World War I the publication could not publish for a few years, ofcourse. Then afterwards, the nazism started growing in the country and more it became harder to publish the magazine in a semi-secretive way. In 1932 the last Issue was made, due to the rise of Hitler in Nazi-Germany.
 
 ### _Contributors_
 
@@ -73,16 +75,15 @@ Known contributors, other then Adolf Brand himself were Benedict Friedlaender, H
   - E. G. H. Chauve<br>
 </details>
 
+### _Production_
 
+The magazine was published by Adolf Brand and had approximately **1500 subscriptions** per edition, but exact numbers do not exist.
 
-### _Context_
+The paper and general design of the magazine changed often during the 30 years it existed, but most of the time **black and white**, with the exception of some illustrations that had one color added.
 
-[What did Berlin look like around 1900 -1930](https://www.youtube.com/watch?v=B-m9A8mY-U0)
+The magazine was **locally printed in Berlin**, probably using an offset press. Often photos were printed on different paper in earlier issues. Later issues (around 1920) were completely printed on more glossy paper.
 
-During the period of publishing Der Eigene there was a lot of political tension in Germany. First of all, the main reason for publishing Der Eigene was [Paragraph 175](https://en.wikipedia.org/wiki/Paragraph_175), a provision of the German Criminal Code from 15 May 1871 to 10 March 1994, that made homosexual acts between males a crime, and in early revisions the provision also criminalized bestiality as well as forms of prostitution and underage sexual abuse. All in all, around 140,000 men were convicted under the law.
-During the World War I the publication could not publish for a few years, ofcourse. Then afterwards, the nazism started growing in the country and more it became harder to publish the magazine in a semi-secretive way. In 1932 the last Issue was made, due to the rise of Hitler in Nazi-Germany.
-
-
+The magazine had a **soft cover and was stapled**, although there was one hard cover version in 1906's volume.
 
 ### _Queer Publishing_
 
@@ -94,14 +95,13 @@ A recent widely known gay magazine, that also featured a lot of content that was
 
 ### _Romantic Poetry_
 
+## Transcoding <a name="3"></a>
 
-## Transcoding
 The role of transcoding in all the content of these periodical magazines, is in reastablishing its value for a modern audience and also to preserve these artifacts, so in the future we will still be able to learn from the past.
 
 To transcode the meaning of Der Eigene I am focussing on the feeling that the magazine gives the reader when for instance the poems are read. By focussing on for instance the poems I want to accent the still relevant message in the sometimes tough romance between two men, two women, or other LGBT+ relationships. While on one side Der Eigene was progressive for its time by standing for gay love, it also is an all white male published magazine, where many men did not support feminism (again this can be seen as logical for that time in Germany. I do not want people to forget about this, yet I also want people to see that it still took a lot of courage in that day and time to publish this content).
 
 [All poems](https://drive.google.com/open?id=1hFo3KCJfu9X3N7F-YxrOUpxRoXHYYCwe)
-
 
 ### **_Concept 1_**
 
@@ -117,21 +117,32 @@ Translation Try outs:
 
 ### **_Concept 2_**
 
+My second transcoding concept is based on the experience of hearing a poem. Either through just sound, or sound and visuals, a poem becomes an experience.
 
+Mp4 files of poems and their translation
 
 ### **_Concept 3_**
 
+I am fascinated by the illustrations in the magazine. Often illustrators are not mentioned, yet they give the texts or poems so much more attention the all the others. They also bring the romantic aspect of nature from the poems to a visual level.
 
-## Reflection
+![Daffodil 0](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil0.png)
+![Daffodil 1](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil1.png)            \|  ![Daffodil 2](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil2.png)
+:-------------------------:\|:-------------------------:
+![Daffodil 3](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil3.png)  \|  ![Daffodil 4](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil4.png)
+
+## Reflection <a name="4"></a>
+
 In progress
 
-## Outcome
+## Outcome <a name="5"></a>
+
 In progress
 
-## Conclusion
+## Conclusion <a name="6"></a>
+
 In progress
 
-## Bibliography
+## Bibliography <a name="7"></a>
 
 [e-flux](https://www.e-flux.com/podcasts/)
 
