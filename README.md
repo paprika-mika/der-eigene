@@ -92,89 +92,50 @@ Der Eigene was the very first gay magazine known, after which many magazines and
 
 A recent widely known gay magazine, that also featured a lot of content that was send in by readers is [BUTT](http://www.buttmagazine.com/).
 
+### _Romantic Poetry_
+
 
 ## Transcoding
+The role of transcoding in all the content of these periodical magazines, is in reastablishing its value for a modern audience and also to preserve these artifacts, so in the future we will still be able to learn from the past.
 
+To transcode the meaning of Der Eigene I am focussing on the feeling that the magazine gives the reader when for instance the poems are read. By focussing on for instance the poems I want to accent the still relevant message in the sometimes tough romance between two men, two women, or other LGBT+ relationships. While on one side Der Eigene was progressive for its time by standing for gay love, it also is an all white male published magazine, where many men did not support feminism (again this can be seen as logical for that time in Germany. I do not want people to forget about this, yet I also want people to see that it still took a lot of courage in that day and time to publish this content).
 
-Preservation Concepts How to make this content understandable for a modern audience?
 [All poems](https://drive.google.com/open?id=1hFo3KCJfu9X3N7F-YxrOUpxRoXHYYCwe)
 
 
 ### **_Concept 1_**
 
+My first step is designing a book, that contains a collection of the romantic poetry of Der Eigene.
+
+![Book Design 1](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/book1.png)
+![Book Design 2](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/book2.png)
+![Book Design 3](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/book3.png)
+
+Translation Try outs:
+![Translation 1](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/translation1.png)
+![Translation 2](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/translation2.png)
+
+### **_Concept 2_**
 
 
 
+### **_Concept 3_**
 
 
+## Reflection
+In progress
 
-### Wundervogel
+## Outcome
+In progress
 
-[Der%20Eigene/O-du-wundervogel.mp3](Der%20Eigene/O-du-wundervogel.mp3)
+## Conclusion
+In progress
 
-### Poetry Book
-
-Selected poems from the magazine, about nature and emotion.
-
-[Der Eigene Poetry](https://www.notion.so/Der-Eigene-Poetry-6bcc1790db7e4e609ffcfbde9efe463b)
-
-## Notes
-
-### _References_
-
-<https://www.youtube.com/watch?v=bkeVelOW5yE>
-
-<https://www.youtube.com/watch?time_continue=4257&v=FC6jFoYm3xs&feature=emb_logo>
+## Bibliography
 
 [e-flux](https://www.e-flux.com/podcasts/)
 
 [Rainer Werner Fassbinder](https://en.wikipedia.org/wiki/Rainer_Werner_Fassbinder)
-
-### _Notes on transcoding the artifact_
-
-How does coding play a role in this?
-
-Is there 1 specific story witha  more specific meaning, how to transcode narrative?
-
-(for instance mythology can stay in the world way longer then a specific 'boring' story)
-
-Putting in in a different context, next to some other content, make it relatable, urgent.
-
-Any other media in this topic? film, audio
-
-Develop number of directions to go
-
-Not one solution, different solutions
-
-Language coding tool
-
-Editable format, digital text
-
-posibilities for translation, and for specific language to contemporary language
-
-How would it read in the 20s, or in the 60s or now,
-
-Or combine with visual aspects of gay culture over time
-
-Making the urgency of it clear i process of transcoding, in technical process design process, format
-
-so old so its open to interpretation, can be quite bold, not offending anyone
-
-## To Do list
-
--   [ ]  Contact COC Amsterdam
--   [ ]  Contact Magnus Hirschfield geselschaft <https://magnus-hirschfeld.de/bibliothek-und-archiv/library/>
--   [ ]  Forever Butt
--   [x]  Select poems, articles (what criteria?)
--   [ ]  History of gay zines, relation to Der Eigene
--   [ ]  Context desciption
--   [ ]  Content description
--   [ ]  Digital text format + translation update
--   [ ]  Preservation format ideas
-
-[List of LGBT periodicals](https://en.wikipedia.org/wiki/List_of_LGBT_periodicals)
-
-[Contact](https://www.ihlia.nl/informatiebalie/contact/)
 
 [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax)
 
@@ -182,4 +143,4 @@ so old so its open to interpretation, can be quite bold, not offending anyone
 
 [Lieblingminne und Freundesliebe in der Weltliteratur](https://en.wikipedia.org/wiki/Lieblingminne_und_Freundesliebe_in_der_Weltliteratur#Von_Kupffer's_argumentation_in_the_preface)
 
-[](https://pdfs.semanticscholar.org/e40b/a6b73060ce6d9f318c455b337b187833e599.pdf?_ga=2.159289338.1940558361.1586183571-1215106010.1586183571)
+[The Gemeinschaft der Eigenen and the Cultural Politics of Homoeroticism in Germany](https://pdfs.semanticscholar.org/e40b/a6b73060ce6d9f318c455b337b187833e599.pdf?_ga=2.159289338.1940558361.1586183571-1215106010.1586183571)
