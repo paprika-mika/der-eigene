@@ -35,16 +35,13 @@ The magazine was **locally printed in Berlin**, probably using an offset press. 
 
 The magazine had a **soft cover and was stapled**, although there was one hard cover version in 1906's volume.
 
-### _Message_
-
-The search/longing/desire to be able to live as you want, accepting freundesliebe, men loving men
 
 ### _Contributors_
 
 Known contributors, other then Adolf Brand himself were Benedict Friedlaender, Hanns Heinz Ewers, Erich Mühsam, Kurt Hiller, Ernst Burchard, John Henry Mackay, Theodor Lessing, Klaus Mann, and Thomas Mann, as well as artists Wilhelm von Gloeden, Fidus, and Sascha Schneider.
 
 <details>
-<summary>_Contributors of scanned issues:_</summary>
+<summary>Contributors of scanned issues:</summary>
 <br>
   - Adolf Brand<br>
   - Heinrich Vormann<br>
@@ -80,36 +77,27 @@ Known contributors, other then Adolf Brand himself were Benedict Friedlaender, H
 
 ### _Context_
 
-Berlin 1900 -1930
+[What did Berlin look like around 1900 -1930](https://www.youtube.com/watch?v=B-m9A8mY-U0)
 
-<https://www.youtube.com/watch?v=B-m9A8mY-U0>
+During the period of publishing Der Eigene there was a lot of political tension in Germany. First of all, the main reason for publishing Der Eigene was [Paragraph 175](https://en.wikipedia.org/wiki/Paragraph_175), a provision of the German Criminal Code from 15 May 1871 to 10 March 1994, that made homosexual acts between males a crime, and in early revisions the provision also criminalized bestiality as well as forms of prostitution and underage sexual abuse. All in all, around 140,000 men were convicted under the law.
+During the World War I the publication could not publish for a few years, ofcourse. Then afterwards, the nazism started growing in the country and more it became harder to publish the magazine in a semi-secretive way. In 1932 the last Issue was made, due to the rise of Hitler in Nazi-Germany.
 
-### _Political situation_
 
-[Paragraph 175](https://en.wikipedia.org/wiki/Paragraph_175)
 
 ### _Queer Publishing_
 
-Der Eigene was the first gay magazine known, with many to follow worldwide.
+Der Eigene was the very first gay magazine known, after which many magazines and publications worldwide were published, with the purpose of connecting LGBT+ people and to fight for equality. Many of which were or still are produced in secret because of the criminalisation of homosexuality.
 
-[List of LGBT periodicals](https://en.wikipedia.org/wiki/List_of_LGBT_periodicals)
+[Full list of LGBT periodicals on wikipedia](https://en.wikipedia.org/wiki/List_of_LGBT_periodicals)
 
-In the last 150 years queer publications have helped unite minorities and helped the fight for LGBT+ rights
-
-[BUTT](http://www.buttmagazine.com/)
-
-?
-
-### _Poetry_
-
-Romantic Gay poetry
+A recent widely known gay magazine, that also featured a lot of content that was send in by readers is [BUTT](http://www.buttmagazine.com/).
 
 
 ## Transcoding
 
+
 Preservation Concepts How to make this content understandable for a modern audience?
 [All poems](https://drive.google.com/open?id=1hFo3KCJfu9X3N7F-YxrOUpxRoXHYYCwe)
-
 
 
 ### **_Concept 1_**
