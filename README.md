@@ -126,9 +126,10 @@ Mp4 files of poems and their translation
 I am fascinated by the illustrations in the magazine. Often illustrators are not mentioned, yet they give the texts or poems so much more attention the all the others. They also bring the romantic aspect of nature from the poems to a visual level.
 
 ![Daffodil 0](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil0.png)
-![Daffodil 1](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil1.png)            \|  ![Daffodil 2](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil2.png)
-:-------------------------:\|:-------------------------:
-![Daffodil 3](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil3.png)  \|  ![Daffodil 4](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil4.png)
+
+| ![Daffodil 1](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil1.png) | ![Daffodil 2](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil2.png) |
+| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| ![Daffodil 3](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil3.png) | ![Daffodil 4](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil4.png)|
 
 ## Reflection <a name="4"></a>
 
