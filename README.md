@@ -119,7 +119,7 @@ Translation Try outs:
 
 My second transcoding concept is based on the experience of hearing a poem. Either through just sound, or sound and visuals, a poem becomes an experience.
 
-Mp4 files of poems and their translation
+Listen to some selected poems [HERE](https://drive.google.com/drive/folders/1U-9SlbJxWJwtxpqLrNkoq-BxQ0J4_4yy?usp=sharing)
 
 ### **_Concept 3_**
 
@@ -131,28 +131,34 @@ I am fascinated by the illustrations in the magazine. Often illustrators are not
 | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | ![Daffodil 3](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil3.png) | ![Daffodil 4](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/daffodil4.png)|
 
+
+| ![Branch 1](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/branch4.png) | ![Branch 2](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/branch6.png) |
+| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| ![Branch 3](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/branch9.png) | ![Branch 4](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/branch10.png)|
+
+![Title 1](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/title.png)
+![Title 2](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/title4.png)
+
 ## Reflection <a name="4"></a>
 
-In progress
+In the process of working with all this delicate material from this old magazine, my most important mission was to make this content available and relatable again. I think in some ways I would have loved to explore more ways to do this. It would still be really interesting to see a song, or a short film with this content. But I also think the final interactive solution presents the content in a way similar to where it comes from but just in a modern display, which is definitely what I wanted to achieve.
 
 ## Outcome <a name="5"></a>
 
-In progress
+The final outcome is visible [HERE](https://paprika-mika.github.io/romantic-poetry/poems.html)
+
+It is a website displaying the 3d rendered images, based on illustrations from Der Eigene with a function to listen to the magazine's poems in German and read the translation of them at the same time.
 
 ## Conclusion <a name="6"></a>
 
-In progress
+This project has been eye-opening to me, because I got to work directly with material that has a historical and political relevance and I was free to do with it whatever I wanted. What I wanted was definitely a lot, because I found the material quite special and I wanted to handle it in a way that would make others also interested in it. While I was learning to work in 3D for the first time I also learned that working directly with material does not mean that you 'copy' somebodies content or message, but working with it, or elaborating on it, rather adds a new contemporary perspective to it.
 
 ## Bibliography <a name="7"></a>
 
-[e-flux](https://www.e-flux.com/podcasts/)
-
-[Rainer Werner Fassbinder](https://en.wikipedia.org/wiki/Rainer_Werner_Fassbinder)
-
-[Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax)
-
-[Elisarion: Lieblingminne](http://www.elisarion.ch/en/literary_oeuvre/elisar_von_kupffer_literary_catalogue_raisonne/lieblingminne/lieblingminne.html)
+[The Gemeinschaft der Eigenen and the Cultural Politics of Homoeroticism in Germany](https://pdfs.semanticscholar.org/e40b/a6b73060ce6d9f318c455b337b187833e599.pdf?_ga=2.159289338.1940558361.1586183571-1215106010.1586183571)
 
 [Lieblingminne und Freundesliebe in der Weltliteratur](https://en.wikipedia.org/wiki/Lieblingminne_und_Freundesliebe_in_der_Weltliteratur#Von_Kupffer's_argumentation_in_the_preface)
 
-[The Gemeinschaft der Eigenen and the Cultural Politics of Homoeroticism in Germany](https://pdfs.semanticscholar.org/e40b/a6b73060ce6d9f318c455b337b187833e599.pdf?_ga=2.159289338.1940558361.1586183571-1215106010.1586183571)
+[Rainer Werner Fassbinder](https://en.wikipedia.org/wiki/Rainer_Werner_Fassbinder)
+
+[Elisarion: Lieblingminne](http://www.elisarion.ch/en/literary_oeuvre/elisar_von_kupffer_literary_catalogue_raisonne/lieblingminne/lieblingminne.html)
