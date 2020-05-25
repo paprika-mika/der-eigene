@@ -1,5 +1,4 @@
 ![Romantic Gay Poetry - Cover](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/cover-der-eigene.jpg)
-
 # Wir Eigenen
 
 **_Romantic Gay poetry 1896 - 1932_**
